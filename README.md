@@ -4,7 +4,7 @@ O bien, se recomienda ejecutar este programa de enviador de mensajes automático
 
 https://drive.google.com/file/d/1P7qrruH0gCFEAqcjLykj7bsgcE4XBac9/view?usp=sharing 
 
-Debe de tenerse en cuenta que se debe de probar este programa con una cuenta que tenga un API Key La plantilla CSV de prueba se encuentra justo en la carpeta. Se sugiere utilizar sus propios contactos de prueba. 
+Debe de tenerse en cuenta que se debe de probar este programa con una cuenta que tenga un API Key y tenerlo registrado con un correo de prueba. La plantilla CSV de prueba se encuentra justo en la carpeta. Se sugiere utilizar sus propios contactos de prueba. 
 
 ### BASE DE DATOS.
 
