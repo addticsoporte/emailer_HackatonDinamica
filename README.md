@@ -8,6 +8,6 @@ Debe de tenerse en cuenta que se debe de probar este programa con un numero de c
 
 ### BASE DE DATOS.
 
-La base de datos que se utiliza para cargar las campañas se encuentra dentro de esta carpeta y tiene el nombre de "retargettingmysql". 
+
 
 Entiendase que para probar estos programas se necesitó de correos y numeros reales, y se corre riesgo de generarles un spam interminable, si no se hubieran borrado previamente. 
